@@ -1,5 +1,10 @@
 # ArcGIS 3D Map
 
-ArcGIS 3D Map with external Layer.
+Sandbox for ArcGIS 3D Map with external Layers.
 
-Layer on Panama's Forest Coverage in 2000 from: https://strimaps.si.edu/arcgis/rest/services/Panama/CoberturaBoscosa2000/MapServer
+## Current layers: 
+
+- Panama's Forest Coverage in 2000 from: https://strimaps.si.edu/arcgis/rest/services/Panama/CoberturaBoscosa2000/MapServer
+
+
+Link: https://arcgismap-sandbox.herokuapp.com/
