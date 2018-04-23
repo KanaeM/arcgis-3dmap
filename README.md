@@ -1,6 +1,6 @@
-# ArcGIS 3D Map
+# ArcGIS 
 
-Sandbox for ArcGIS 3D Map with external Layers.
+ArcGIS 3D Map with external Layers.
 
 ## Current layers: 
 
