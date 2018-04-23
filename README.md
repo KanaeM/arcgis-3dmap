@@ -1,6 +1,6 @@
 # ArcGIS 
 
-ArcGIS 3D Map with external Layers.
+Testing out ArcGIS 3D Map with external Layer.
 
 ## Current layers: 
 
